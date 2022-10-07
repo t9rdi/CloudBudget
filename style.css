@@ -1,0 +1,433 @@
+.block1{
+  height: 782px;
+  width: 1440px;
+  background-image: url(img/cloudbudjet.svg);
+  background-repeat: no-repeat;
+}
+
+.block1-content{
+  display: flex;
+}
+
+.block1-content img, p{
+  margin-top: 58px;
+}
+
+.cloud{
+  margin-top: 60.8px;
+  margin-left: 166.45px;
+}
+
+.navbar{
+  display: flex;
+  font-family: Roboto;
+  font-weight: 400px;
+  cursor: pointer;
+}
+
+.overview{
+  color: white;
+  margin-left: 161px;
+  padding-right: 20px;
+}
+
+.features{
+  color: white;
+  padding-right: 20px;
+}
+
+.technlogy{
+  color: white;
+  padding-right: 20px;
+}
+
+.contact{
+  color: white;
+  padding-right: 20px;
+}
+
+.signup{
+  color: white;
+}
+
+.button-block1 button{
+  background-color: transparent;
+  color: #E5E5E5;
+  border-color: white;
+  height: 40px;
+  width: 100px;
+  top: 50px;
+  border-radius: 6px;
+  margin-left: 229px;
+  margin-top: 50px;
+}
+
+.cloudbudget{
+  color: white;
+  position: absolute;
+  margin-top: 180px;
+  margin-left: 353px;
+  font-family: roboto;
+  font-size: 72px;
+  font-weight: 700;
+}
+
+.cloudbudget-text{
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 200;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+  position: absolute;
+  width: 450px;
+  height: 86px;
+  left: 504px;
+  top: 353px;
+  font-family: monospace;
+}
+
+.block1-signup button{
+  position: absolute;
+  height: 50px;
+  width: 160px;
+  left: 654px;
+  top: 549px;
+  border-radius: 6px;
+  color: red;
+  background-color: white;
+  border-color: white;
+}
+
+.block2{
+  height: 500px;
+  width: 1440px;
+  left: 0px;
+  top: 782px;
+  border-radius: 0px;
+  padding-top: 130px;
+}
+
+.block2-content h1{
+  height: 107px;
+  width: 445px;
+  font-family: monospace;
+}
+
+.block2-content p{
+  height: 115px;
+  width: 476px;
+  font-family: monospace;
+}
+
+.block2-img{
+  background-image: url(img/block2.svg);
+  height: 311px;
+  width: 445px;
+  border-radius: 15px;
+  margin-left: 600px;
+  margin-top: -300px;
+}
+
+.block2-content span{
+  color: red;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: justified;
+
+}
+
+.krug2{
+  margin-top: 120px;
+  margin-left: -30px;
+}
+
+.play{
+  margin-bottom: 24px;
+  margin-left: -39px;
+}
+
+.block3{
+  padding-top: 63px;
+  background: #FAFAFA;
+
+}
+
+.block3-content{
+    display: flex;
+    flex-direction: row;
+}
+
+.block3-h1{
+  font-family: monospace;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.support{
+  padding-left:165px;
+  padding-right: 30px; 
+}
+
+.manage{
+  padding-right: 30px;
+}
+
+.block4{
+  height: 508px;
+  width: 1440px;
+}
+
+.block4 h1{
+  font-family: Lato;
+  font-size: 36px;
+  font-weight: 600;
+  text-align: center;
+  font-family: monospace;
+  padding-bottom: 50px;
+}
+
+.block4 img{
+  margin-left: 165px;
+}
+
+.button-block4 button{
+  margin-top: 54px;
+  text-align: center;
+  height: 48.10606002807617px;
+  width: 160px;
+  top: 2373px;
+  border-radius: 6px;
+  background-color: red;
+  color: white;
+  border-color: red;
+  margin-left: 646px;
+}
+
+.block5{
+  height: 500px;
+  width: 1440px;
+  background-color: #ED4C5C;
+}
+
+.block5-content{
+
+}
+
+.h3-block5{
+  height: 107px;
+  width: 445px;
+  font-family: monospace;
+  font-size: 36px;
+  font-weight: 600;
+  color: white;
+  position: absolute;
+  margin-left: 165px;
+  margin-top: 122px;
+}
+
+.block5-content p{
+  height: 64px;
+  width: 445px;
+  font-family: monospace;
+  font-size: 14px;
+  font-weight: 400;
+  color: white;
+  position: absolute;
+  margin-top: 253px;
+  margin-left: 165px;
+}
+
+.playmarket{
+  margin-top: 361px;
+  margin-left: 163px;
+}
+
+.appstore{
+  margin-left: 28px;
+}
+
+.windows{
+  margin-left: 25px;
+}
+
+.block5-img1{
+  height: 267px;
+  width: 383px;
+  border-radius: 15px;
+  position: absolute;
+  margin-left: 735px;
+  margin-top: -280px;
+}
+
+.block6{
+  height: 500px;
+  width: 1440px;
+}
+
+.block6-content{
+
+}
+
+.block6-content h2{
+  font-family: monospace;
+  font-family: Lato;
+  font-size: 36px;
+  font-weight: 600;
+  height: 107px;
+  width: 445px;
+  margin-top: 117px;
+  margin-left: 176px;
+}
+
+.block6-content p{
+  height: 64px;
+  width: 547px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: monospace;
+  margin-left: 176px;
+  margin-top: -40px;
+}
+
+.login{
+  position: absolute;
+  margin-top: -166px;
+  margin-left: 735px;
+}
+
+.firstname{
+  margin-right: 30px;
+  height: 60px;
+  width: 255px;
+  border-radius: 6px;
+  font-size: 16px;
+  border-color:#333333 ;
+}
+
+.lastname{
+  height: 60px;
+  width: 255px;
+  border-radius: 6px;
+  font-size: 16px;
+  border-color:#333333 ;
+}
+
+.phonenumber{
+  height: 60px;
+  width: 540px;
+  border-radius: 6px;
+  margin-top: 24px;
+  font-size: 16px;
+  border-color:#333333 ;
+}
+
+.selectservice{
+  height: 60px;
+  width: 540px;
+  border-radius: 6px;
+  margin-top: 24px;
+  font-size: 16px;
+  border-color:#333333 ;
+}
+
+.button-block6{
+  height: 50px;
+  width: 160px;
+  border-radius: 6px;
+  color: white;
+  background-color: #ED4C5C;
+  margin-top: 27px;
+  border-color: #ED4C5C ;
+}
+
+.block7{
+  height: 435px;
+  width: 1440px;
+  font-family: monospace;
+}
+
+.block7-content{
+ display: flex;
+}
+
+.address{
+  font-family: monospace;
+  margin-left: 166px;
+}
+
+.address h3{
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.address p{
+  height: 54px;
+  width: 254px;
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 33px;
+}
+
+.address span{
+  height: 14px;
+  width: 172px;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  margin-top: 141px;
+}
+
+.service h3{
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.service p{
+  font-size: 12px;
+  font-weight: 400;
+  height: 114px;
+  width: 254px;
+}
+
+.service p{
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.gitintouch{
+  height: 128px;
+  width: 122px;
+}
+
+.gitintouch h1{
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.wesupport{
+  margin-left: 187px;
+}
+
+.gmail{
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.number{
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: 400;
+}
